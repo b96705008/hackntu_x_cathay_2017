@@ -13,6 +13,7 @@
 * atm
 * cti
 * mybank
+
 #### fields
 * actor_type, actor_id, action_type, action_time, object_type, object_id, channel_type, channel_id, attrs, theme
 
