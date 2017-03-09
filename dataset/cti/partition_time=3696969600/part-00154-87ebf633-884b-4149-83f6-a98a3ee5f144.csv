@@ -1,0 +1,2 @@
+customer_id,1,inbound,3698949714,call_purpose,0_29_289,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"OCNZZVXCYKLAXLRDTPRU\"}, \"object\": {\"type_desc\": \"29\", \"detail_desc\": \"289\", \"business_desc\": \"0\"}}",cti,3696969600
+customer_id,26,inbound,3698949714,call_purpose,0_29_289,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"OCNZZVXCYKLAXLRDTPRU\"}, \"object\": {\"type_desc\": \"29\", \"detail_desc\": \"289\", \"business_desc\": \"0\"}}",cti,3696969600

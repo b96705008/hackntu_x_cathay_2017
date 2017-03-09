@@ -1,0 +1,2 @@
+customer_id,1,inbound,3698683223,call_purpose,1_8_44,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"ZMIUZKLUQBPOKLDQYMLA\"}, \"object\": {\"type_desc\": \"8\", \"detail_desc\": \"44\", \"business_desc\": \"1\"}}",cti,3696969600
+customer_id,26,inbound,3698683223,call_purpose,1_8_44,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"ZMIUZKLUQBPOKLDQYMLA\"}, \"object\": {\"type_desc\": \"8\", \"detail_desc\": \"44\", \"business_desc\": \"1\"}}",cti,3696969600

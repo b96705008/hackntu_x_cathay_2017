@@ -1,0 +1,2 @@
+customer_id,13,inbound,3697101221,call_purpose,2_23_60,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"VPAKPMTAGBCRYSCUZRTU\"}, \"object\": {\"type_desc\": \"23\", \"detail_desc\": \"60\", \"business_desc\": \"2\"}}",cti,3696969600
+customer_id,38,inbound,3697101221,call_purpose,2_23_60,customer_service,personal_phone_service,"{\"action\": {\"call_nbr\": \"VPAKPMTAGBCRYSCUZRTU\"}, \"object\": {\"type_desc\": \"23\", \"detail_desc\": \"60\", \"business_desc\": \"2\"}}",cti,3696969600
