@@ -62,9 +62,21 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 * Easy Profiling
 * Wrangling data with Apache Spark
 
+## Already installed libraries in VM
+### Python 2.7
+#### sklearn, numpy, pandas, jupyter, networkx, keras, tensorflow, flask, django, xgboost
+### R 3.3.3
+#### xgboost
+### Java 1.7
+### Spark 2.1
+### node.js
+### IDE
+#### subline, pycharm, rstudio
+
 ## other reference
 ### Spark 
 * [Python+Spark 2.0+Hadoop 機器學習與大數據分析實戰](https://www.tenlong.com.tw/products/9789864341535)
+
 * [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
 * [Spark RDD minibatch for Deep learning](https://github.com/b96705008/pyspark-dl-utils/blob/master/example/Minibatch.ipynb) - Welcome for refining
 * [R on Spark](http://spark.apache.org/docs/latest/sparkr.html)
