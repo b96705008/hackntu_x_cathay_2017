@@ -1,7 +1,6 @@
 # Hackntu_x_Cathay_2017
 
 ## dataset
-================
 
 ### profile
 | field            | type   | Description              |
@@ -44,8 +43,7 @@
 | partition_time | Long   | 最近上一區段時間戳記 (可串連profile) |
 
 ## example
-==========
-### Wrangling data with Apache Spark
+* Wrangling data with Apache Spark
 
 ## other reference
 * [Python+Spark 2.0+Hadoop 機器學習與大數據分析實戰](https://www.tenlong.com.tw/products/9789864341535)
