@@ -1,6 +1,6 @@
 # Hackntu_x_Cathay_2017
 
-## dataset
+## dataset (for preview purpose)
 
 ### profile
 | field            | type   | Description              |
