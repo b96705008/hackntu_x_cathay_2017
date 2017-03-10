@@ -54,6 +54,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 ```
 
 ## example
+* Easy Profiling
 * Wrangling data with Apache Spark
 
 ## other reference
