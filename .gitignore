@@ -100,5 +100,6 @@ derby.log
 
 # This app related
 df-result
+.DS_Store
 
 # End of https://www.gitignore.io/api/python

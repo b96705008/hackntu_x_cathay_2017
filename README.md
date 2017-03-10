@@ -1,5 +1,9 @@
 # Hackntu_x_Cathay_2017
 
+## introduction
+* 資料介紹 - data format introduction
+* 商業分析 - business analysis
+
 ## dataset (for preview purpose)
 
 ### profile
