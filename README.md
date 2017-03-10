@@ -3,6 +3,7 @@
 ## dataset (for preview purpose)
 
 ### profile
+
 | field            | type   | Description              |
 |------------------|--------|--------------------------|
 | customer_id      | String | 客戶 ID                  |
@@ -20,6 +21,11 @@
 | deposit_flag     | String | 是否有存款產品往來       |
 | wealth_flag      | String | 是否有理財產品往來       |
 | partition_time   | Long   | snapshot時間戳記     |
+
+#### sample
+```
+1,1871111837,F,D,181903,F,373933,3320438400,1217.1769900503969,528.7309192220683,Y,Y,N,N,3696969600
+```
 
 ### event
 #### themes
@@ -41,6 +47,11 @@
 | attrs          | String | 補充資料 - JSON string               |
 | theme          | String | 主題 - cc_txn, atm, cti, mybank      |
 | partition_time | Long   | 最近上一區段時間戳記 (可串連profile) |
+
+#### sample
+```
+customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTABCUAXLYJLQZ,"{\"action\": {\"txn_amt\": 0.0, \"txn_fee_amt\": 0.0, \"trans_type\": \"trans_out\"}, \"object\": {\"target_bank_code\": \"B_bank\", \"target_acct_nbr\": \"UMOTEPKACILAPBIKOYHZ\"}, \"channel\": {\"address_zipcode\": 601401, \"machine_bank_code\": \"C_bank\"}}",atm,3696969600
+```
 
 ## example
 * Wrangling data with Apache Spark
