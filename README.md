@@ -60,7 +60,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 ### Spark 
 * [Python+Spark 2.0+Hadoop 機器學習與大數據分析實戰](https://www.tenlong.com.tw/products/9789864341535)
 * [Learning Spark](http://shop.oreilly.com/product/0636920028512.do)
-* [Spark RDD minibatch for Deep learning](https://github.com/b96705008/pyspark-dl-utils/blob/master/example/Minibatch.ipynb) Welcome for refining
+* [Spark RDD minibatch for Deep learning](https://github.com/b96705008/pyspark-dl-utils/blob/master/example/Minibatch.ipynb) - Welcome for refining
 * [R on Spark](http://spark.apache.org/docs/latest/sparkr.html)
 
 ### Python 
