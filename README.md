@@ -55,7 +55,7 @@
 
 #### sample
 ```
-customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTABCUAXLYJLQZ,"{\"action\": {\"txn_amt\": 0.0, \"txn_fee_amt\": 0.0, \"trans_type\": \"trans_out\"}, \"object\": {\"target_bank_code\": \"B_bank\", \"target_acct_nbr\": \"UMOTEPKACILAPBIKOYHZ\"}, \"channel\": {\"address_zipcode\": 601401, \"machine_bank_code\": \"C_bank\"}}",atm,3696969600
+customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTABCUAXLYJLQZ,"{\"action\": {\"txn_amt\": 0.0, \"txn_fee_amt\": 0.0, \"trans_type\": \"trans_out\"}, \"object\": {\"target_bank_code\": \"B_bank\", \"target_acct_nbr\": \"UMOTEPKACILAPBIKOYHZ\"}, \"channel\": {\"address_zipcode\": 601401, \"machine_bank_code\": \"C_bank\"}}",3696969600,atm
 ```
 
 ## example
