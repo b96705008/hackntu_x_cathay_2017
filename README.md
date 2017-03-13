@@ -50,8 +50,8 @@
 | channel_type   | String | 通路類型                             |
 | channel_id     | String | 通路ID                               |
 | attrs          | String | 補充資料 - JSON string               |
-| theme          | String | 主題 - cc_txn, atm, cti, mybank      |
 | partition_time | Long   | 最近上一區段時間戳記 (可串連profile) |
+| theme          | String | 主題 - cc_txn, atm, cti, mybank      |
 
 #### sample
 ```
