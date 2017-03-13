@@ -74,6 +74,9 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 #### subline, pycharm, rstudio
 
 ## other reference
+### Credit Card 
+* [MCC codes](https://github.com/b96705008/mcc-codes)
+
 ### Spark 
 * [Python+Spark 2.0+Hadoop 機器學習與大數據分析實戰](https://www.tenlong.com.tw/products/9789864341535)
 
