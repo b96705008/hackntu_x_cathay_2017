@@ -1,0 +1,4 @@
+customer_id,6,fund,3698402640,general_purchase,LYEGVGYCRPOWVBCTOOSN,digital,MMB,"{\"action\": {\"amt\": 1453.836271230739, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,31,fund,3698402640,general_purchase,LYEGVGYCRPOWVBCTOOSN,digital,MMB,"{\"action\": {\"amt\": 1453.836271230739, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,8,fund,3698404895,fixed_quota_purchase,VRWRJMCRPEAENCVCSHUZ,digital,MMB,"{\"action\": {\"amt\": 752.2213442081462, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,33,fund,3698404895,fixed_quota_purchase,VRWRJMCRPEAENCVCSHUZ,digital,MMB,"{\"action\": {\"amt\": 752.2213442081462, \"currency_code\": \"USD\"}}",3696969600,mybank

@@ -1,6 +1,0 @@
-customer_id,1,TWD_demand_deposit,3697375662,transfer,MIBCXLJEHBQSXPEPCLMQ,digital,MMB,"{\"action\": {\"amt\": 1712.4572511919525, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,26,TWD_demand_deposit,3697375662,transfer,MIBCXLJEHBQSXPEPCLMQ,digital,MMB,"{\"action\": {\"amt\": 1712.4572511919525, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,2,fund,3697379915,general_purchase,KMTUASSRKQFNCWVDXRGT,digital,MyBank,"{\"action\": {\"amt\": 733.7806025100604, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,27,fund,3697379915,general_purchase,KMTUASSRKQFNCWVDXRGT,digital,MyBank,"{\"action\": {\"amt\": 733.7806025100604, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,9,TWD_demand_deposit,3697380757,transfer,OAEELJJAAEGPXDSSWSEH,digital,MMB,"{\"action\": {\"amt\": 2059.5996314743525, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,34,TWD_demand_deposit,3697380757,transfer,OAEELJJAAEGPXDSSWSEH,digital,MMB,"{\"action\": {\"amt\": 2059.5996314743525, \"currency_code\": \"TWD\"}}",mybank,3696969600

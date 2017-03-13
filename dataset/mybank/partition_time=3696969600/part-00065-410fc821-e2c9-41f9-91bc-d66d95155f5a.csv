@@ -1,0 +1,4 @@
+customer_id,12,fund,3697898400,general_purchase,ZODYAGNLOFRZZYXTTEZG,digital,MMB,"{\"action\": {\"amt\": 1375.4180131876606, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,37,fund,3697898400,general_purchase,ZODYAGNLOFRZZYXTTEZG,digital,MMB,"{\"action\": {\"amt\": 1375.4180131876606, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,25,fund,3697901602,fixed_quota_purchase,ZUMWBESKVWVHCVMUPJHB,digital,MyBank,"{\"action\": {\"amt\": 652.9211471834567, \"currency_code\": \"TWD\"}}",3696969600,mybank
+customer_id,50,fund,3697901602,fixed_quota_purchase,ZUMWBESKVWVHCVMUPJHB,digital,MyBank,"{\"action\": {\"amt\": 652.9211471834567, \"currency_code\": \"TWD\"}}",3696969600,mybank

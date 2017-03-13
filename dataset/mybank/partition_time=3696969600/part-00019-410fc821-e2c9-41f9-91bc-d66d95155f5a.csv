@@ -1,0 +1,4 @@
+customer_id,2,fund,3697300160,general_purchase,QJJQWMLMBYAVZZXCBKWR,digital,MMB,"{\"action\": {\"amt\": 2512.590699440258, \"currency_code\": \"TWD\"}}",3696969600,mybank
+customer_id,27,fund,3697300160,general_purchase,QJJQWMLMBYAVZZXCBKWR,digital,MMB,"{\"action\": {\"amt\": 2512.590699440258, \"currency_code\": \"TWD\"}}",3696969600,mybank
+customer_id,24,TWD_demand_deposit,3697302065,credit_card_payment,YPVYBBQIMAOFFJUEEDPS,digital,MyBank,"{\"action\": {\"amt\": 844.1097296724142, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,49,TWD_demand_deposit,3697302065,credit_card_payment,YPVYBBQIMAOFFJUEEDPS,digital,MyBank,"{\"action\": {\"amt\": 844.1097296724142, \"currency_code\": \"USD\"}}",3696969600,mybank

@@ -1,0 +1,4 @@
+customer_id,11,fund,3697219894,fixed_quota_purchase,LWVWUXBSVHLNZPILHQAG,digital,MyBank,"{\"action\": {\"amt\": 416.6871378150272, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,36,fund,3697219894,fixed_quota_purchase,LWVWUXBSVHLNZPILHQAG,digital,MyBank,"{\"action\": {\"amt\": 416.6871378150272, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,17,fund,3697231321,fixed_quota_purchase,LNRKVIYOMURNJJHIRJHI,digital,MyBank,"{\"action\": {\"amt\": 1111.6543786341024, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,42,fund,3697231321,fixed_quota_purchase,LNRKVIYOMURNJJHIRJHI,digital,MyBank,"{\"action\": {\"amt\": 1111.6543786341024, \"currency_code\": \"USD\"}}",3696969600,mybank

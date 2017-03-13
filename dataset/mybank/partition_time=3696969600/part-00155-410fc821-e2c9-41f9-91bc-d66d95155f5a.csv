@@ -1,0 +1,4 @@
+customer_id,14,fund,3698978841,fixed_quota_purchase,JBFQVGJNJHFVILIJNXRR,digital,MyBank,"{\"action\": {\"amt\": 713.4928439897164, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,39,fund,3698978841,fixed_quota_purchase,JBFQVGJNJHFVILIJNXRR,digital,MyBank,"{\"action\": {\"amt\": 713.4928439897164, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,15,fund,3698984138,fixed_quota_purchase,USFYHYYMPPIBRVJMGHAH,digital,MyBank,"{\"action\": {\"amt\": 131.0736075041638, \"currency_code\": \"TWD\"}}",3696969600,mybank
+customer_id,40,fund,3698984138,fixed_quota_purchase,USFYHYYMPPIBRVJMGHAH,digital,MyBank,"{\"action\": {\"amt\": 131.0736075041638, \"currency_code\": \"TWD\"}}",3696969600,mybank

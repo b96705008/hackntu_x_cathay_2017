@@ -1,0 +1,4 @@
+customer_id,7,fund,3698500965,general_purchase,AUONCNJYWMBHQBFAGZVV,digital,MyBank,"{\"action\": {\"amt\": 549.5813087887142, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,32,fund,3698500965,general_purchase,AUONCNJYWMBHQBFAGZVV,digital,MyBank,"{\"action\": {\"amt\": 549.5813087887142, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,8,fund,3698523853,general_purchase,JEAWOTTLSOZFQCCENYDC,digital,MyBank,"{\"action\": {\"amt\": 109.12602968500798, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,33,fund,3698523853,general_purchase,JEAWOTTLSOZFQCCENYDC,digital,MyBank,"{\"action\": {\"amt\": 109.12602968500798, \"currency_code\": \"USD\"}}",3696969600,mybank

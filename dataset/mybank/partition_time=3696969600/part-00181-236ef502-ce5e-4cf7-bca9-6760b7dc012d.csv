@@ -1,6 +1,0 @@
-customer_id,1,TWD_demand_deposit,3699346389,credit_card_payment,PLOVUCXAYUBDUNMFYTHI,digital,MyBank,"{\"action\": {\"amt\": 1832.8372445668115, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,26,TWD_demand_deposit,3699346389,credit_card_payment,PLOVUCXAYUBDUNMFYTHI,digital,MyBank,"{\"action\": {\"amt\": 1832.8372445668115, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,11,fund,3699348652,general_purchase,DGBNUITUGGHWVABYZZQA,digital,MMB,"{\"action\": {\"amt\": 233.15630616377626, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,36,fund,3699348652,general_purchase,DGBNUITUGGHWVABYZZQA,digital,MMB,"{\"action\": {\"amt\": 233.15630616377626, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,21,TWD_demand_deposit,3699356012,credit_card_payment,XCRETSBADIAUXKZYZTZW,digital,MMB,"{\"action\": {\"amt\": 1748.691177488287, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,46,TWD_demand_deposit,3699356012,credit_card_payment,XCRETSBADIAUXKZYZTZW,digital,MMB,"{\"action\": {\"amt\": 1748.691177488287, \"currency_code\": \"TWD\"}}",mybank,3696969600

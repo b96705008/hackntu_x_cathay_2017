@@ -1,0 +1,4 @@
+customer_id,13,fund,3697465142,general_purchase,NDUPGTHZDFGRWOISCSRQ,digital,MMB,"{\"action\": {\"amt\": 2679.8116461435893, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,38,fund,3697465142,general_purchase,NDUPGTHZDFGRWOISCSRQ,digital,MMB,"{\"action\": {\"amt\": 2679.8116461435893, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,17,fund,3697477707,general_purchase,ANDZCMCAOTGMLROGLSPC,digital,MMB,"{\"action\": {\"amt\": 451.1089924841681, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,42,fund,3697477707,general_purchase,ANDZCMCAOTGMLROGLSPC,digital,MMB,"{\"action\": {\"amt\": 451.1089924841681, \"currency_code\": \"USD\"}}",3696969600,mybank

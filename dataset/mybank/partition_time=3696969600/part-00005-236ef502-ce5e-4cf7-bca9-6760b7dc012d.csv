@@ -1,4 +1,0 @@
-customer_id,14,fund,3697048971,general_purchase,RYGIXLHBBEKBTCNQTLPX,digital,MyBank,"{\"action\": {\"amt\": 250.04167928960814, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,39,fund,3697048971,general_purchase,RYGIXLHBBEKBTCNQTLPX,digital,MyBank,"{\"action\": {\"amt\": 250.04167928960814, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,22,TWD_demand_deposit,3697050333,transfer,NKVLPTOZIMGUXRACANSJ,digital,MMB,"{\"action\": {\"amt\": 249.22481414242344, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,47,TWD_demand_deposit,3697050333,transfer,NKVLPTOZIMGUXRACANSJ,digital,MMB,"{\"action\": {\"amt\": 249.22481414242344, \"currency_code\": \"TWD\"}}",mybank,3696969600

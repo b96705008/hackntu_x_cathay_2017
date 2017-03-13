@@ -1,0 +1,4 @@
+customer_id,23,fund,3697210560,fixed_quota_purchase,PMKHOMSENMDCBBVEUILW,digital,MMB,"{\"action\": {\"amt\": 139.3475245167297, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,48,fund,3697210560,fixed_quota_purchase,PMKHOMSENMDCBBVEUILW,digital,MMB,"{\"action\": {\"amt\": 139.3475245167297, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,17,fund,3697218981,general_purchase,HWCWSDVTYFTUQKXGVCKH,digital,MMB,"{\"action\": {\"amt\": 583.2274712050668, \"currency_code\": \"USD\"}}",3696969600,mybank
+customer_id,42,fund,3697218981,general_purchase,HWCWSDVTYFTUQKXGVCKH,digital,MMB,"{\"action\": {\"amt\": 583.2274712050668, \"currency_code\": \"USD\"}}",3696969600,mybank

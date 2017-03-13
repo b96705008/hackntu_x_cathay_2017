@@ -1,6 +1,0 @@
-customer_id,23,fund,3697019996,fixed_quota_purchase,LSUIDIFTDRIHWLZFUPSQ,digital,MMB,"{\"action\": {\"amt\": 2796.0713313410693, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,48,fund,3697019996,fixed_quota_purchase,LSUIDIFTDRIHWLZFUPSQ,digital,MMB,"{\"action\": {\"amt\": 2796.0713313410693, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,13,fund,3697024863,fixed_quota_purchase,SKTVRIENUHOTKNMQMJWG,digital,MyBank,"{\"action\": {\"amt\": 2992.6226916782416, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,38,fund,3697024863,fixed_quota_purchase,SKTVRIENUHOTKNMQMJWG,digital,MyBank,"{\"action\": {\"amt\": 2992.6226916782416, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,7,TWD_demand_deposit,3697030782,credit_card_payment,DBYVOXYBAGLOVNURQCKN,digital,MyBank,"{\"action\": {\"amt\": 633.6814622689008, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,32,TWD_demand_deposit,3697030782,credit_card_payment,DBYVOXYBAGLOVNURQCKN,digital,MyBank,"{\"action\": {\"amt\": 633.6814622689008, \"currency_code\": \"TWD\"}}",mybank,3696969600

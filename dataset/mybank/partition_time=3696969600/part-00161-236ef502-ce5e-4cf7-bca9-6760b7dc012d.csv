@@ -1,6 +1,0 @@
-customer_id,2,fund,3699082770,fixed_quota_purchase,NFCDFZKXEUINCRSADPQQ,digital,MyBank,"{\"action\": {\"amt\": 457.4139170196332, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,27,fund,3699082770,fixed_quota_purchase,NFCDFZKXEUINCRSADPQQ,digital,MyBank,"{\"action\": {\"amt\": 457.4139170196332, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,9,fund,3699092245,general_purchase,WFITBIZBERXCXVIREFFB,digital,MMB,"{\"action\": {\"amt\": 3108.345436843513, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,34,fund,3699092245,general_purchase,WFITBIZBERXCXVIREFFB,digital,MMB,"{\"action\": {\"amt\": 3108.345436843513, \"currency_code\": \"USD\"}}",mybank,3696969600
-customer_id,1,fund,3699092659,general_purchase,FPXJIJTDPTZNSWWYLHLZ,digital,MMB,"{\"action\": {\"amt\": 1532.987470702793, \"currency_code\": \"TWD\"}}",mybank,3696969600
-customer_id,26,fund,3699092659,general_purchase,FPXJIJTDPTZNSWWYLHLZ,digital,MMB,"{\"action\": {\"amt\": 1532.987470702793, \"currency_code\": \"TWD\"}}",mybank,3696969600
