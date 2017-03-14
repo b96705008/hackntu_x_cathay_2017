@@ -71,7 +71,7 @@ customer_id,17,inquire,3696970704,saving_acct,MJQXLDJMQQOYAPFBBPBS,ATM,NCZHYDSTA
 ### Spark 2.1
 ### node.js
 ### IDE
-#### subline, pycharm, rstudio
+#### sublime, pycharm, Rstudio
 
 ## other reference
 ### Credit Card 
