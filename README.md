@@ -1,4 +1,5 @@
 # Hackntu_x_Cathay_2017
+* Thanks for everyone's attending!
 
 ## introduction
 * 資料介紹 
