@@ -1,7 +1,7 @@
 # Hackntu_x_Cathay_2017
 * Thanks for everyone's attending!
 
-## introduction
+## introduction(pdf)
 * 資料介紹 
 * 方向建議與實作
 * 商業分析 
